@@ -1,2 +1,3 @@
 # student_management_system
-This my First project in python
+This is my First python project 
+This project is basically a GUI based project 
